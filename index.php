@@ -2,5 +2,5 @@
 
 include('function.php');
 
-echo('Hello world, git version 3')
+echo('Hello world, git version 2-1')
 ?>
